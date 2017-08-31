@@ -1,4 +1,4 @@
-Android Studio 插件
+# Android Studio 插件
 
 <p align="center">
 <img alt="AndroidStudioPlugins" src="https://github.com/sunzq19931016/Android-Studio-Plugins-cn/blob/master/assets/android_studio_plugin.png?raw=true">
@@ -43,7 +43,7 @@ Android Studio 插件
 
 |                   插件名称                   |                   插件介绍                   | 具体使用 |
 | :--------------------------------------: | :--------------------------------------: | :--: |
-|          Material Theme UI EAP           | IDE 的 [Material Theme](https://github.com/equinusocio/material-theme)外观。 |      |
+| [Material Theme UI EAP](https://github.com/mallowigi/material-theme-jetbrains-eap) | IDE 的 [Material Theme](https://github.com/equinusocio/material-theme)外观。 |      |
 | [CodeGlance](http://plugins.jetbrains.com/plugin/7275?pr=androidstudio) |               预览代码，实现快速定位。               |      |
 | [Codota](https://plugins.jetbrains.com/plugin/7638-codota) |             搜索最好的Android代码。              |      |
 | [Android Drawable Importer](https://github.com/winterDroid/android-drawable-importer-intellij-plugin) |                                          |      |
