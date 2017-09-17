@@ -72,23 +72,3 @@
 | [idea markdown](https://github.com/nicoulaj/idea-markdown) |     针对 idea 的Markdown语言支持。      |                                          |
 | [FIR_Plugin_Android](https://github.com/FIRHQ/FIR_Plugin_Android) |          一键上传应用到fir.im          |                                          |
 | [Statistic](https://plugins.jetbrains.com/plugin/4509-statistic) |             统计代码行数              |                                          |
-
-
-
-### License
-
-   ```
-   Copyright (C) 2017 sunzq
-
-   Licensed under the Apache License, Version 2.0 (the "License");
-   you may not use this file except in compliance with the License.
-   You may obtain a copy of the License at
-
-       http://www.apache.org/licenses/LICENSE-2.0
-
-   Unless required by applicable law or agreed to in writing, software
-   distributed under the License is distributed on an "AS IS" BASIS,
-   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-   See the License for the specific language governing permissions and
-   limitations under the License.
-   ```
