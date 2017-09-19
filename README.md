@@ -3,13 +3,11 @@
 </p>
 
 # Android Studio 插件  
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://opensource.org/licenses/Apache-2.0)
-
-[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/balsikandar/Android-Studio-Plugins/blob/master/LICENSE)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://opensource.org/licenses/Apache-2.0) [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/balsikandar/Android-Studio-Plugins/blob/master/LICENSE)
 
 #### 传播:heart:
 
-[![GitHub stars](https://img.shields.io/github/stars/sunzq19931016/Android-Studio-Plugins-cn.svg?style=social&label=Star)](https://github.com/sunzq19931016/Android-Studio-Plugins-cn) [![GitHub forks](https://img.shields.io/github/forks/sunzq19931016/Android-Studio-Plugins-cn.svg?style=social&label=Fork)](https://github.com/sunzq19931016/Android-Studio-Plugins-cn/fork) [![GitHub watchers](https://img.shields.io/github/watchers/sunzq19931016/Android-Studio-Plugins-cn.svg?style=social&label=Watch)](https://github.com/sunzq19931016/Android-Studio-Plugins-cn)[![GitHub followers](https://img.shields.io/github/followers/sunzq19931016.svg?style=social&label=Follow)](https://github.com/sunzq1993)  
+[![GitHub stars](https://img.shields.io/github/stars/sunzq19931016/Android-Studio-Plugins-cn.svg?style=social&label=Star)](https://github.com/sunzq19931016/Android-Studio-Plugins-cn) [![GitHub forks](https://img.shields.io/github/forks/sunzq19931016/Android-Studio-Plugins-cn.svg?style=social&label=Fork)](https://github.com/sunzq19931016/Android-Studio-Plugins-cn/fork) [![GitHub watchers](https://img.shields.io/github/watchers/sunzq19931016/Android-Studio-Plugins-cn.svg?style=social&label=Watch)](https://github.com/sunzq19931016/Android-Studio-Plugins-cn)[![GitHub followers](https://img.shields.io/github/followers/sunzq19931016.svg?style=social&label=Follow)](https://github.com/sunzq19931016)  
 
 #### 关于
 
