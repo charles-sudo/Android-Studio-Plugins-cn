@@ -85,7 +85,7 @@
 ### License
 
    ```
-   Copyright (C) 2017 Bal sunzq
+   Copyright (C) 2017  sunzq
    Copyright (C) 2017 Android Open Source Project
 
    Licensed under the Apache License, Version 2.0 (the "License");
