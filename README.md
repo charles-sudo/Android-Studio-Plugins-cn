@@ -54,7 +54,8 @@
 | [CodeGlance](http://plugins.jetbrains.com/plugin/7275?pr=androidstudio) | 预览代码，实现快速定位。                             |      |
 | [Codota](https://plugins.jetbrains.com/plugin/7638-codota) | 搜索最好的Android代码。                          |      |
 | [Android Drawable Importer](https://github.com/winterDroid/android-drawable-importer-intellij-plugin) |                                          |      |
-| [Android Icons](http://www.androidicons.com/) |                                          |      |
+| [Android Icons](http://www.androidicons.com/) |                                          |      |
+| [Android Styler](https://plugins.jetbrains.com/plugin/7972-android-styler) |                                          |      | 
 
 
 
