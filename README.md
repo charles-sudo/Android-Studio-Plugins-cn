@@ -52,7 +52,6 @@
 | :--------------------------------------- | :--------------------------------------- | :--- |
 | [Material Theme UI EAP](https://github.com/mallowigi/material-theme-jetbrains-eap) | IDE 的 [Material Theme](https://github.com/equinusocio/material-theme)外观。 |      |
 | [CodeGlance](http://plugins.jetbrains.com/plugin/7275?pr=androidstudio) | 预览代码，实现快速定位。                             |      |
-| [Codota](https://plugins.jetbrains.com/plugin/7638-codota) | 搜索最好的Android代码。                          |      |
 | [Android Drawable Importer](https://github.com/winterDroid/android-drawable-importer-intellij-plugin) |                                          |      |
 | [Android Icons](http://www.androidicons.com/) |                                          |      |
 
@@ -85,7 +84,7 @@
 ### License
 
    ```
-   Copyright (C) 2017 Bal sunzq
+   Copyright (C) 2017 sunzq
    Copyright (C) 2017 Android Open Source Project
 
    Licensed under the Apache License, Version 2.0 (the "License");
