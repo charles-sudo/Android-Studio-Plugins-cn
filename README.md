@@ -63,6 +63,7 @@
 | ---------------------------------------- | :------------------------------ | :--------------------------------------- |
 | [ECTranslation](https://github.com/Skykai521/ECTranslation) | 翻译神器                            |                                          |
 | [Translation](https://github.com/YiiGuxing/TranslationPlugin) | 翻译超神器                           | [链接](http://yiiguxing.github.io/TranslationPlugin/start.html) |
+| [idea-anddevkit-plugin](https://github.com/yanbober/idea-anddevkit-plugin/releases) | 多语言开发助手                         | [链接](https://github.com/yanbober/idea-anddevkit-plugin) |
 | [GenyMotion](https://www.genymotion.com/plugins/) | Android虚拟机                      |                                          |
 | [JSONOnlineViewer](https://plugins.jetbrains.com/plugin/7838-jsononlineviewer) | 在Android Studio中请求、调试接口         | [链接](https://plugins.jetbrains.com/plugin/7838-jsononlineviewer) |
 | [gradle packer plugin](https://github.com/mcxiaoke/gradle-packer-plugin) | Android渠道打包工具                   |                                          |
