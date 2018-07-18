@@ -1,5 +1,5 @@
 <p align="center">
-<img alt="AndroidStudioPlugins" src="https://github.com/sunzq19931016/Android-Studio-Plugins-cn/blob/master/assets/android_studio_plugin.png?raw=true">
+<img alt="AndroidStudioPlugins" src="https://github.com/PegasusCharles/Android-Studio-Plugins-cn/blob/master/assets/android_studio_plugin.png?raw=true">
 </p>
 
 # Android Studio 插件  
@@ -7,7 +7,7 @@
 
 #### 传播:heart:
 
-[![GitHub stars](https://img.shields.io/github/stars/sunzq19931016/Android-Studio-Plugins-cn.svg?style=social&label=Star)](https://github.com/sunzq19931016/Android-Studio-Plugins-cn) [![GitHub forks](https://img.shields.io/github/forks/sunzq19931016/Android-Studio-Plugins-cn.svg?style=social&label=Fork)](https://github.com/sunzq19931016/Android-Studio-Plugins-cn/fork) [![GitHub watchers](https://img.shields.io/github/watchers/sunzq19931016/Android-Studio-Plugins-cn.svg?style=social&label=Watch)](https://github.com/sunzq19931016/Android-Studio-Plugins-cn)[![GitHub followers](https://img.shields.io/github/followers/sunzq19931016.svg?style=social&label=Follow)](https://github.com/sunzq19931016)  
+[![GitHub stars](https://img.shields.io/github/stars/PegasusCharles/Android-Studio-Plugins-cn.svg?style=social&label=Star)](https://github.com/PegasusCharles/Android-Studio-Plugins-cn) [![GitHub forks](https://img.shields.io/github/forks/PegasusCharles/Android-Studio-Plugins-cn.svg?style=social&label=Fork)](https://github.com/PegasusCharles/Android-Studio-Plugins-cn/fork) [![GitHub watchers](https://img.shields.io/github/watchers/PegasusCharles/Android-Studio-Plugins-cn.svg?style=social&label=Watch)](https://github.com/PegasusCharles/Android-Studio-Plugins-cn)[![GitHub followers](https://img.shields.io/github/followers/PegasusCharles.svg?style=social&label=Follow)](https://github.com/PegasusCharles)  
 
 #### 关于
 
