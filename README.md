@@ -59,25 +59,24 @@
 
 ### 工具
 
-| 插件名称                                     | 插件介绍                            | 具体使用                                     |
-| ---------------------------------------- | :------------------------------ | :--------------------------------------- |
-| [ECTranslation](https://github.com/Skykai521/ECTranslation) | 翻译神器                            |                                          |
-| [Translation](https://github.com/YiiGuxing/TranslationPlugin) | 翻译超神器                           | [链接](http://yiiguxing.github.io/TranslationPlugin/start.html) |
-| [idea-anddevkit-plugin](https://github.com/yanbober/idea-anddevkit-plugin/releases) | 多语言开发助手                         | [链接](https://github.com/yanbober/idea-anddevkit-plugin) |
-| [GenyMotion](https://www.genymotion.com/plugins/) | Android虚拟机                      |                                          |
-| [JSONOnlineViewer](https://plugins.jetbrains.com/plugin/7838-jsononlineviewer) | 在Android Studio中请求、调试接口         | [链接](https://plugins.jetbrains.com/plugin/7838-jsononlineviewer) |
-| [gradle packer plugin](https://github.com/mcxiaoke/gradle-packer-plugin) | Android渠道打包工具                   |                                          |
-| [GradleDependenciesHelperPlugin](https://github.com/ligi/GradleDependenciesHelperPlugin) | maven gradle 依赖支持自动补全           |                                          |
-| [lint cleaner plugin](https://github.com/marcoRS/lint-cleaner-plugin) | 用于删除Android项目中未使用的资源。           |                                          |
-| [SQLScout](https://plugins.jetbrains.com/plugin/8322-sqlscout-sqlite-support-) | 在Android Studio管理和更新SQLite数据库 。 | [链接](https://juejin.im/post/58e0d781a0bb9f0069ec08d3) |
-| [JRebel for android](https://plugins.jetbrains.com/plugin/7936-jrebel-for-android) | 高效调试神器                          |                                          |
-| [Android folding plugin](https://github.com/dmytrodanylyk/folding-plugin) | 对Android资源文件分组                  |                                          |
-| [AndroidWiFiADB](https://github.com/pedrovgs/AndroidWiFiADB) | 通过WiFi连接您的Android设备             |                                          |
-| [Permission Dispatcher](https://github.com/shiraji/permissions-dispatcher-plugin) | 权限管理的插件                         |                                          |
-| [Git Flow Integration for Intellij](https://github.com/OpherV/gitflow4idea/) |                                 |                                          |
-| [Android DPI calculator](https://plugins.jetbrains.com/plugin/7832-android-dpi-calculator) | Android DPI计算器。                 |                                          |
-| [idea markdown](https://github.com/nicoulaj/idea-markdown) | 针对 idea 的Markdown语言支持。          |                                          |
-| [FIR_Plugin_Android](https://github.com/FIRHQ/FIR_Plugin_Android) | 一键上传应用到fir.im                   |                                          |
-| [Statistic](https://plugins.jetbrains.com/plugin/4509-statistic) | 统计代码行数                          |                                          |
-
-
+| 插件名称                                                     | 插件介绍                                  | 具体使用                                                     |
+| ------------------------------------------------------------ | :---------------------------------------- | :----------------------------------------------------------- |
+| [ECTranslation](https://github.com/Skykai521/ECTranslation)  | 翻译神器                                  |                                                              |
+| [Translation](https://github.com/YiiGuxing/TranslationPlugin) | 翻译超神器                                | [链接](http://yiiguxing.github.io/TranslationPlugin/start.html) |
+| [idea-anddevkit-plugin](https://github.com/yanbober/idea-anddevkit-plugin/releases) | 多语言开发助手                            | [链接](https://github.com/yanbober/idea-anddevkit-plugin)    |
+| [GenyMotion](https://www.genymotion.com/plugins/)            | Android虚拟机                             |                                                              |
+| [JSONOnlineViewer](https://plugins.jetbrains.com/plugin/7838-jsononlineviewer) | 在Android Studio中请求、调试接口          | [链接](https://plugins.jetbrains.com/plugin/7838-jsononlineviewer) |
+| [gradle packer plugin](https://github.com/mcxiaoke/gradle-packer-plugin) | Android渠道打包工具                       |                                                              |
+| [GradleDependenciesHelperPlugin](https://github.com/ligi/GradleDependenciesHelperPlugin) | maven gradle 依赖支持自动补全             |                                                              |
+| [lint cleaner plugin](https://github.com/marcoRS/lint-cleaner-plugin) | 用于删除Android项目中未使用的资源。       |                                                              |
+| [SQLScout](https://plugins.jetbrains.com/plugin/8322-sqlscout-sqlite-support-) | 在Android Studio管理和更新SQLite数据库 。 | [链接](https://juejin.im/post/58e0d781a0bb9f0069ec08d3)      |
+| [JRebel for android](https://plugins.jetbrains.com/plugin/7936-jrebel-for-android) | 高效调试神器                              |                                                              |
+| [Android folding plugin](https://github.com/dmytrodanylyk/folding-plugin) | 对Android资源文件分组                     |                                                              |
+| [AndroidWiFiADB](https://github.com/pedrovgs/AndroidWiFiADB) | 通过WiFi连接您的Android设备               |                                                              |
+| [Permission Dispatcher](https://github.com/shiraji/permissions-dispatcher-plugin) | 权限管理的插件                            |                                                              |
+| [Git Flow Integration for Intellij](https://github.com/OpherV/gitflow4idea/) |                                           |                                                              |
+| [Android DPI calculator](https://plugins.jetbrains.com/plugin/7832-android-dpi-calculator) | Android DPI计算器。                       |                                                              |
+| [idea markdown](https://github.com/nicoulaj/idea-markdown)   | 针对 idea 的Markdown语言支持。            |                                                              |
+| [FIR_Plugin_Android](https://github.com/FIRHQ/FIR_Plugin_Android) | 一键上传应用到fir.im                      |                                                              |
+| [Statistic](https://plugins.jetbrains.com/plugin/4509-statistic) | 统计代码行数                              |                                                              |
+| [OkHttpProfiler](https://github.com/itkacher/OkHttpProfiler) | OkHttp探查器插件                          | [链接](<https://plugins.jetbrains.com/plugin/11249-okhttp-profiler>) |
