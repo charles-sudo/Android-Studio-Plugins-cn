@@ -38,11 +38,12 @@
 
 ### 调试
 
-| 插件名称                                     | 插件介绍               | 具体使用 |
-| :--------------------------------------- | :----------------- | ---- |
-| [Android Resource Usage Count](https://github.com/niorgai/Android-Resource-Usage-Count) | 显示每个资源的使用次数        |      |
-| [Android Methods Count](https://plugins.jetbrains.com/plugin/8076-android-methods-count) | 获取Android 框架上方法数量。 |      |
-| [Jetbrains Wakatime](https://github.com/wakatime/jetbrains-wakatime) |                    |      |
+| 插件名称                                                     | 插件介绍                             | 具体使用 |
+| :----------------------------------------------------------- | :----------------------------------- | -------- |
+| [Android Resource Usage Count](https://github.com/niorgai/Android-Resource-Usage-Count) | 显示每个资源的使用次数               |          |
+| [Android Methods Count](https://plugins.jetbrains.com/plugin/8076-android-methods-count) | 获取Android 框架上方法数量。         |          |
+| [Jetbrains Wakatime](https://github.com/wakatime/jetbrains-wakatime) |                                      |          |
+| [adb-input ](https://plugins.jetbrains.com/plugin/13758-adb-input) | 直接从 Android Studio 输入文本到设备 |          |
 
 
 
